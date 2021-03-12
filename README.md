@@ -1,4 +1,4 @@
-# classification
+# Classification
 Telco Customer Churn Prediction.
 
 ### About the project-
