@@ -18,19 +18,19 @@ Demographic info about customers – gender, age range, and if they have partner
 Downloaded the Dataset from [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 ### This project involves-
-1)**Exploratory data analysis-**
+1) **Exploratory data analysis-**
    Dropping unnecessary features, treating the null values and outliers if any. Univariate and Bivariate analysis using KDE plot, boxplots and also Barplot of the independendent features with the target variable.
 
-3)**Feature transformation-**
+2) **Feature transformation-**
    Scaling the numeric value and "get_dummies" on the categorical variables
 
-4)**Building Various Classification models-**
+3) **Building Various Classification models-**
    Various algorithms like Naive Bayes, SVM, Linear Discriminant Analysis also boosting algorithms like Adaboost and XG boost are used.
 
-5)**Selection of the Best Model-**
+4) **Selection of the Best Model-**
    ALL the models are compared on their precision and recall on both training and testing dataset. the best one is chosen after proper evaluation.
    
 ### Conclusion- 
-Linear Discriminant Analysis algorithm is used
+Linear Discriminant Analysis algorithm is used for the prediction.
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](https://github.com/Chirag-Naik666/classification/blob/main/confusion_matrix.png)
