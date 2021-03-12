@@ -32,4 +32,5 @@ Downloaded the Dataset from [Kaggle](https://www.kaggle.com/blastchar/telco-cust
    
 ### Conclusion- 
 Linear Discriminant Analysis algorithm is used
+
 ![Confusion Matrix](confusion_matrix.png)
