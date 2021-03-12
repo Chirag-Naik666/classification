@@ -6,7 +6,7 @@ Telco Customer Churn Prediction.
 
 ### Python Packages used- Pandas,Numpy,Scipy,scikit-learn,Seaborn and matplotlib.
 
-### About the data set (life_expectancy) :-
+### About the data set :-
    Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 The data set includes information about:
 Customers who left within the last month – the column is called Churn
