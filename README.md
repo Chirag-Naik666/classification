@@ -2,7 +2,7 @@
 Telco Customer Churn Prediction.
 
 ### About the project-
-   In this project I am using various classification algorithms to predict the customer churn using the features in the dataset.
+   In this project various classification algorithms is used to predict the customer churn using the features in the dataset.
 
 ### Python Packages used- Pandas,Numpy,Scipy,scikit-learn,Seaborn and matplotlib.
 
@@ -25,12 +25,12 @@ Downloaded the Dataset from [Kaggle](https://www.kaggle.com/blastchar/telco-cust
    Scaling the numeric value and "get_dummies" on the categorical variables
 
 3) **Building Various Classification models-**
-   Various algorithms like Naive Bayes, SVM, Linear Discriminant Analysis also boosting algorithms like Adaboost and XG boost are used.
+   Various algorithms like Naive Bayes, SVM, Linear Discriminant Analysis, KNN also boosting algorithms like Adaboost and XG boost are used.
 
 4) **Selection of the Best Model-**
    ALL the models are compared on their precision and recall on both training and testing dataset. the best one is chosen after proper evaluation.
    
 ### Conclusion- 
-Linear Discriminant Analysis algorithm is used for the prediction.
+Adaboost yeilds us the best results.
 
 ![Confusion Matrix](https://github.com/Chirag-Naik666/classification/blob/main/confusion_matrix.JPG)
